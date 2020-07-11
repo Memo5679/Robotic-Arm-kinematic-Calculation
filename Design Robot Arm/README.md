@@ -1,5 +1,7 @@
 # RobotArm
 
+![alt text](https://github.com/Memo5679/Robotic-Arm-kinematic-calculation-and-design-robotic-arm-/blob/master/Design%20Robot%20Arm/STL/OVERVIEW.stl)
+
 # Additional details used in these parts:
 
 - 3mm bolts and nuts
@@ -12,4 +14,3 @@
 
 - 6mm airsoft BB (plastic) balls for base bearings
 
-https://github.com/Memo5679/Robotic-Arm-kinematic-calculation-and-design-robotic-arm-/blob/master/Design%20Robot%20Arm/STL/OVERVIEW.stl
