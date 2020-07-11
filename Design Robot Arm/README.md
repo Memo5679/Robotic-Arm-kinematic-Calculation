@@ -11,3 +11,5 @@
 - 2mm pitch timing belt (GT2)
 
 - 6mm airsoft BB (plastic) balls for base bearings
+
+https://github.com/Memo5679/Robotic-Arm-kinematic-calculation-and-design-robotic-arm-/blob/master/Design%20Robot%20Arm/STL/OVERVIEW.stl
