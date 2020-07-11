@@ -1,6 +1,5 @@
 # RobotArm
-
-![alt text](https://github.com/Memo5679/Robotic-Arm-kinematic-calculation-and-design-robotic-arm-/blob/master/Design%20Robot%20Arm/STL/OVERVIEW.stl)
+-------------------------------------
 
 # Additional details used in these parts:
 
