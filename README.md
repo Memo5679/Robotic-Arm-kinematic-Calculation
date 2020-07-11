@@ -16,3 +16,6 @@ and we know that the final angle which is the angle of the hole arm with respect
 cos(angle2)=(xx+yy-L1L1)/(2L1L2) angle1= Totalangle -angle2
 
 remmber that all the trigonometric functions accept the angle in radian and the servo motor rotate in degree.
+
+# Mathematical equation
+![alt text](https://github.com/Memo5679/Robotic-Arm-kinematic-calculation-and-design-robotic-arm-/blob/master/Mathematical%20equations.jpg)
