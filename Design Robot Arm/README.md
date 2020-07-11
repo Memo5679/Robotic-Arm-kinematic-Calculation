@@ -1,6 +1,6 @@
 # RobotArm
 
-- Additional details used in these parts:
+# Additional details used in these parts:
 
 - 3mm bolts and nuts
 
