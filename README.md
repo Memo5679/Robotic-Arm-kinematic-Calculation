@@ -10,7 +10,7 @@ There are two codes that do the same function which is to rotate the servo motor
 and we know that the final angle which is the angle of the hole arm with respect to the x-axis: theta =theta1+theta2
 
 2- Inverse methode: in this code the given were the total angle and the final position x-y coordinates, and the length of the two pices but we need to no the first and second angle to set the servo motor. so we used this formula:
-![alt text]()
+![alt text](https://github.com/Memo5679/Robotic-Arm-kinematic-calculation-and-design-robotic-arm-/blob/master/The%20graph%20of%20inverse%20kinematic.jpg)
 
 cos(angle2)=(xx+yy-L1L1)/(2L1L2) angle1= Totalangle -angle2
 
